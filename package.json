@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/brianeshores/db_practice#readme",
   "dependencies": {
+    "knex": "^0.16.5",
     "pg": "^7.11.0"
   }
 }
